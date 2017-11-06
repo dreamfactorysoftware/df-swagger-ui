@@ -16,7 +16,7 @@
   "support":     {
     "source": "https://github.com/dreamfactorysoftware/df-swagger-ui",
     "issues": "https://github.com/dreamfactorysoftware/df-swagger-ui/issues",
-    "email":  "support@dreamfactory.com",
+    "email":  "dspsupport@dreamfactory.com",
     "wiki":   "https://wiki.dreamfactory.com"
   },
   "require":     {
@@ -31,7 +31,7 @@
   "authors":     [
     {
       "name":  "DreamFactory Software, Inc.",
-      "email": "support@dreamfactory.com"
+      "email": "dspsupport@dreamfactory.com"
     },
     {
       "name":  "Anna Bodnia",
