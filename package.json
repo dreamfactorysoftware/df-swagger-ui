@@ -151,6 +151,6 @@
     "IE 11"
   ],
   "optionalDependencies": {
-    "webpack-dev-server": "2.5.0"
+    "webpack-dev-server": "5.2.6"
   }
 }
